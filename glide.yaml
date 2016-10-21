@@ -1,0 +1,6 @@
+package: flowerinthenight/dirclean
+import:
+- package: github.com/urfave/cli
+  version: ^1.18.1
+- package: gopkg.in/natefinch/lumberjack.v2
+  version: ^1.0.0
